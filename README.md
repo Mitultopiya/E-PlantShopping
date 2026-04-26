@@ -38,7 +38,5 @@ This project is part of my **Full-Stack Development** course with IBM. It's a ha
 └── package.json
 
 # Clone the repository:
-git clone https://github.com/arslanr369/e-plantShopping.git
+git clone https://github.com/Mitultopiya/E-PlantShopping.git
 
-# Contact
-For any questions or feedback, please reach out to me at arslanriaz785@gmail.com.
